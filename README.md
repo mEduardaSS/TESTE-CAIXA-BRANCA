@@ -113,15 +113,15 @@ N9 → N10
 Fórmula: V(G) = E − N + 2P
 
 ### Contagem
-Nós (N): 10
-Arestas (E): 11
-Componentes conectados (P): 1
+- Nós (N): 10
+- Arestas (E): 11
+- Componentes conectados (P): 1
 
 ### Cálculo
-V(G) = 11 − 10 + 2(1)
-V(G) = 1 + 2
-V(G) = 3
-Resultado final:
+- V(G) = 11 − 10 + 2(1)
+- V(G) = 1 + 2
+- V(G) = 3
+Resultado final: 3
 
 - Complexidade ciclomática = 3
 
